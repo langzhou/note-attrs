@@ -8,5 +8,11 @@ Note Attrs 与 Note Views 搭配起来使用更佳，它同样也支持属性字
 
 - 第一次添加挂件时将无法加载数据，请务必**重新载入笔记**使挂件生效。如果不重新载入，点击“保存属性到文档”时会导致内核错误，后续版本将修复；
 
+**更新日志：**
+
+v1.2.0 新增属性类型：网络链接
+
+v1.1.0 首次安装挂件后点击「保存属性到文档」会提示重新载入挂件
+
 
 ![preview](https://raw.githubusercontent.com/langzhou/siyuan-note/main/widgets/note-attrs/preview/note-attrs-1.png)
