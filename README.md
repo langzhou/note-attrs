@@ -52,6 +52,7 @@ Note Attrs 与 Note Views 搭配起来使用更佳，它同样也支持属性字
   bottom: 0;
   box-shadow: none;
   box-sizing: border-box;
+}
 ```
 
 ## 预览
