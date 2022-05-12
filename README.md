@@ -16,4 +16,4 @@ Note Attrs 与 Note Views 搭配起来使用更佳，它同样也支持属性字
 - v1.1.0 首次安装挂件后点击「保存属性到文档」会提示重新载入挂件
 
 
-![preview](https://raw.githubusercontent.com/langzhou/siyuan-note/main/widgets/note-attrs/preview/note-attrs-1.png)
+![preview](https://raw.githubusercontent.com/langzhou/note-attrs/main/preview.png)
